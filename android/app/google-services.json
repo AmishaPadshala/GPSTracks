@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661480193425",
+    "project_id": "gpdtrack",
+    "storage_bucket": "gpdtrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661480193425:android:78bfa044c63784f74aee30",
+        "android_client_info": {
+          "package_name": "com.app.gpstracks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661480193425-nvrs64580lpbmfp6eb2290k80hrcdkcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gpstracks",
+            "certificate_hash": "083256b1793b3359cece413c185ea6eda9485b99"
+          }
+        },
+        {
+          "client_id": "661480193425-bkg97thap3odeah738mreu6o079jgbtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlnqPvC4WTk183RiBNzlGcpXVO3usxBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661480193425-bkg97thap3odeah738mreu6o079jgbtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
